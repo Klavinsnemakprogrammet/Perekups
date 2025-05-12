@@ -17,4 +17,4 @@ pēc iespējas ātrāk
 - [ ] Papildināt spēles loģiku 
 - [ ] Izstrādāt otro līmeni
 
-![MR. Bean ar Teddy](https://www.pngall.com/wp-content/uploads/5/Cartoon-Mr.-Bean-PNG-Free-Download.png)
+![bmw_e30](https://github.com/user-attachments/assets/81cbeb35-4f2d-45ad-ba90-a6b53c5f1b59)
